@@ -1,0 +1,27 @@
+.class, .cool, #firstid, #secondid {
+    font-family: 'Verdana', 'DejaVu Sans' , 'sans-serif';
+
+}
+
+.class {
+    background-color: rgb(247, 141, 181);
+    font-size: 25px;
+}
+
+.cool {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#firstid {
+    color: blue;
+    font-size: 40px;
+
+}
+
+#secondid {
+    background-color: hsl(103, 100%, 85%);
+    font-weight: bold;
+    font-size: 35px;
+}
+
